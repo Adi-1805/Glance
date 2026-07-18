@@ -1,0 +1,22 @@
+# System / IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Windows PowerShell Command script
+powershell.cmd
+
+# Python virtual environment and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+.ipynb_checkpoints/
+
+# Project raw data and vector database (from README.md instructions)
+fashion-search/data/raw/
+fashion-search/data/vector_db/
