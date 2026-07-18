@@ -1,7 +1,7 @@
 # Multimodal Fashion & Context Retrieval System: Technical Submission Report
 
 **Author:** Machine Learning Intern Candidate  
-**Repository URL:** `[INSERT REPO URL]`  
+**Repository URL:** `https://github.com/Adi-1805/Glance.git`  
 
 ---
 
