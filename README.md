@@ -40,7 +40,6 @@ OpenAI CLIP embeds images globally and struggles to associate specific colors wi
 
 ```
 fashion-search/
-├── README.md                     # Setup, architecture summary, and guides
 ├── requirements.txt              # Pinned python dependencies
 ├── evaluation_report.md          # Generated evaluation report for the 5 official queries
 ├── data/
