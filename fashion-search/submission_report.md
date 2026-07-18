@@ -1,6 +1,6 @@
 # Multimodal Fashion & Context Retrieval System: Technical Submission Report
 
-**Author:** Aditi Mishra
+**Author:** `Aditi Mishra`
 **Repository URL:** `https://github.com/Adi-1805/Glance.git`  
 
 ---
